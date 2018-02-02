@@ -10,7 +10,6 @@ The purpose of this is:
 import os, sys, subprocess
 
 def is_number(s):
-    """Return whether or not s is a number."""
     try:
         float(s)
         return True

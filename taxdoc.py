@@ -40,8 +40,8 @@ for line in infile.readlines():
         total_charges += transaction_amount
 
     outfile.write("%s,%s,$%s,%s\n" % (transaction_date,
-                                       transaction_amount,
                                        transaction_description,
+                                       transaction_amount,
                                        current_balance,))
 outfile.write("Total Loan Charges:, $%s" % (total_charges))
 

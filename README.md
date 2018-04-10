@@ -1,7 +1,7 @@
 Tax Document Tool
 
 
-This tool is for editing text files of customer account activity downloaded from CoreCard. 
+This tool is for editing text files of customer account activity downloaded. 
 
 It will sum the total loan charges and open an edited and appropriately condensed csv in Excel
 

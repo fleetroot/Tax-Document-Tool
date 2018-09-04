@@ -8,7 +8,7 @@ It will sum the total loan charges and open an edited and appropriately condense
 To use: 
 
 1. Save taxdoc.py
-2. Download customer's transaction history from CoreCard (test.txt can be used to test/practice!)
+2. Download customer's transaction history
 3. Open up terminal, cd into folder containing taxdoc.py
 4. Run python taxdoc.py "Path to transaction history," where you've typed out the path to the downloaded file. 
           -The path will usually be "/Users/yourusername/Downloads/file.txt"

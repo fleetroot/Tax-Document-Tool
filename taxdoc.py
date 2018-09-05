@@ -1,6 +1,6 @@
 """
 The purpose of this is:
-    Open a .txt file downloaded from CoreCard
+    Open a .txt of customer transaction history
     Remove unnecessary columns
     Sum and print loan charges
     Save as a csv
